@@ -17,3 +17,4 @@ Sheets "R_parameters" and "R_distribution" are those for Ring-Lizard.
 ===== CATERORY(category)_N(n) =====
 (parameters)
 Error(log2) : (log2 value of error)
+# LizardError
