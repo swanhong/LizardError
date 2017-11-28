@@ -1,5 +1,5 @@
-# Lizard_test
-Testing correctness condition of Lizard
+# Lizard_Error
+Calculate errors of Lizard
 
 # Run
 Run main.py
