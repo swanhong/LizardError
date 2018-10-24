@@ -42,6 +42,13 @@ class distList:
 
         return answer
 
+    def printDist(self):
+        for i in range(self.length):
+            if i is self.zero:
+                print(self.prob[i], "zero")
+            else:
+                self.prob[i]
+
 # Identity = distribution with Pr(0) = 1
 IDENTITY = distList([1])
 

@@ -49,6 +49,7 @@ def runLizardError(category, n):
 
     # Calculate <s,f>
     sf_n = prob_sf(LPS.RHO_INV, LPS.p, LPS.q, LPS.n)
+    
     # Calculate <e,r>
     er_h = prob_er(LPS.h, prob_given)
 
